@@ -1,6 +1,6 @@
 """Tests for statistics functions within the Model layer."""
 
-import numpy as np, pytest
+import numpy as np, pytest,numpy.testing as npt
 import numpy.testing as n
 
 
